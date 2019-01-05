@@ -6,4 +6,8 @@ Git tracks changes of files.
 
 git commit -m "git tracks changes"
 qwqeqq
+<<<<<<< HEAD
 create a ne is qwqeqq & sim
+=======
+create a ne is qwqeqq and ttt
+>>>>>>> featurel
