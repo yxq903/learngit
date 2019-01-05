@@ -6,4 +6,4 @@ Git tracks changes of files.
 
 git commit -m "git tracks changes"
 qwqeqq
-create a ne is qwqeqq
+create a ne is qwqeqq & sim
